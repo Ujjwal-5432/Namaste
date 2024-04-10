@@ -1,0 +1,16 @@
+{
+  "name": "namaste",
+  "version": "1.0.0",
+  "description": "Beggining",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "hii",
+    "react",
+    "ujjwal"
+  ],
+  "author": "ujjwal sahu",
+  "license": "ISC"
+}
